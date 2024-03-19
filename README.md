@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=randyhytech&label=Profile%20views&color=5de0ea&style=flat" alt="randyhytech" /> </p>
 
-- 🔭 I’m currently working on [dev team mockup frontend](https://github.com/hytechbarett/devteammockupfrontend)
+- 🔭 I’m currently working on [Dev Team Mockup Frontend](https://github.com/hytechbarett/devteammockupfrontend)
 
 - 🌱 I’m currently learning **Hexagonal Architecture**
 
