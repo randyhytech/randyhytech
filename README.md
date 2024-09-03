@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=randyhytech&label=Profile%20views&color=5de0ea&style=flat" alt="randyhytech" /> </p>
 
-- 🔭 I’m currently working on [Dev Team Mockup Frontend](https://github.com/hytechbarett/devteammockupfrontend)
+- 🔭 I’m currently working on [gizmo](https://github.com/hytechbarett/gizmo)
 
 - 🌱 I’m currently learning **Hexagonal Architecture**
 
-- 👯 I’m looking to collaborate on [Devs Resources](https://github.com/raulcarpio9/devs-resources)
+- 👯 I’m looking to collaborate on [gizmo](https://github.com/hytechbarett/gizmo)
 
 - 💬 Ask me about **Vue, React, Nest, Laravel**
 
