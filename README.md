@@ -35,7 +35,7 @@
             alt="javascript" width="40" height="40" /> </a> <a href="https://jestjs.io" target="_blank"
         rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40"
             height="40" /> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
+            src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg"
             alt="laravel" width="40" height="40" /> </a> <a href="https://www.mongodb.com/" target="_blank"
         rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
