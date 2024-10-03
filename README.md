@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Randy R. Martínez Cepeda</h1>
-<h3 align="center">A passionate fullstack developer from Dominican Republic</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=randyhytech&label=Profile%20views&color=5de0ea&style=flat" alt="randyhytech" /> </p>
+
+<h1>Hi 👋, I'm Randy R. Martínez Cepeda</h1>
+<h3>A passionate fullstack developer from Dominican Republic</h3>
+
+<br/>
 
 - 🔭 I’m currently working on [gizmo](https://github.com/hytechbarett/gizmo)
 
@@ -12,6 +14,8 @@
 - 💬 Ask me about **Vue, React, Nest, Laravel**
 
 - 📫 How to reach me **randy.martinez@hytechhome.com**
+
+<br/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
@@ -58,6 +62,8 @@
         rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
             alt="vuejs" width="40" height="40" /> </a> </p>
+
+<br/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=randyhytech&show_icons=true&theme=dark&locale=en" alt="randyhytech" /></p>
 
