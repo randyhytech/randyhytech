@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [gizmo](https://github.com/hytechbarett/gizmo)
 
-- 🌱 I’m currently learning **Hexagonal Architecture**
+- 🌱 I’m currently learning **Clean Architecture**
 
 - 👯 I’m looking to collaborate on [gizmo](https://github.com/hytechbarett/gizmo)
 
