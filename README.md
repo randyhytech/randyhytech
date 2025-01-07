@@ -54,7 +54,3 @@
 <br/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=randyhytech&show_icons=true&theme=dark&locale=en" alt="randyhytech" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=randyhytech&theme=dark" alt="randyhytech" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=randyhytech&show_icons=true&theme=dark&locale=en&layout=compact" alt="randyhytech" /></p>
